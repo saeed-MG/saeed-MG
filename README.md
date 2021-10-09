@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Saeed Mr. Jae
-- 👀 I’m interested in Android developement
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on small projects in Java
+- 👋 Hi, I’m Saeed Head Man.
+- 👀 I was interesting in Android developement.
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on small projects in flutter.
 - ** You can conact with me by the email: soundsudan@gmail.com
 
 <!---
