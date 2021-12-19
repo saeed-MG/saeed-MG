@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saeed Head Man.
+- 👋 Hi, I’m Saeed Dai alnoor.
 - 👀 I was interesting in Android developement.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on small projects in flutter.
